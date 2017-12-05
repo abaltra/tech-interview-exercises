@@ -1,0 +1,3 @@
+/*
+ Write an algorithm to compress a string. It takes subsequent characters and just emits how many times they were seen
+*/
